@@ -1,4 +1,4 @@
-# Project Name
+# Auth-Product-Manager
 
 Description of your Java and Spring Boot project serving as a backend with authentication and CRUD operations for products.
 
